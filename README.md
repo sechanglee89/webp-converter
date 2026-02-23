@@ -53,3 +53,15 @@ main 브랜치 push → GitHub Actions → GitHub Pages
 | 변환 | Canvas API (`toBlob`, `image/webp`)          |
 | ZIP  | [JSZip](https://stuk.github.io/jszip/) (CDN) |
 | 배포 | GitHub Pages + GitHub Actions                |
+
+---
+
+## 서드파티 라이선스
+
+이 프로젝트는 다음 오픈소스 라이브러리를 사용합니다.
+
+| 라이브러리                             | 라이선스 | 저작권                                                                                     |
+| -------------------------------------- | -------- | ------------------------------------------------------------------------------------------ |
+| [JSZip](https://stuk.github.io/jszip/) | MIT      | Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, António Afonso |
+
+JSZip은 MIT 또는 GPLv3 듀얼 라이선스입니다. 이 프로젝트에서는 MIT 라이선스를 적용합니다.
