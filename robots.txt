@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sechanglee89.github.io/webp-converter/sitemap.xml
